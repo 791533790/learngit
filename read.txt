@@ -1,1 +1,2 @@
-222222222222222222
+222222222222222
+Git has a mutable index called stage.
